@@ -7,9 +7,22 @@
 [submodule "Service-registry"]
 	path = Service-registry
 	url = https://github.com/divyanjalee200178/Library-System-Eureka-Server.git
-[submodule "config-server-old"]
-	path = config-server-old
-	url = https://github.com/divyanjalee200178/Library-System-Config-Server.git
 [submodule "service-registry"]
 	path = service-registry
 	url = https://github.com/divyanjalee200178/Library-System-Eureka-Server.git
+
+
+git submodule add https://github.com/divyanjalee200178/Library-System-Eureka-Server.git service-registry/  
+
+git remote add origin https://github.com/divyanjalee200178/Library-System-Platform.git
+
+ git branch  
+
+ git add .   
+
+git push -f origin main 
+
+ git push -u origin main   
+
+
+   
