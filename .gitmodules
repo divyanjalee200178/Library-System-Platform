@@ -8,3 +8,6 @@
 
 
 
+[submodule "Service-registry"]
+	path = Service-registry
+	url = https://github.com/divyanjalee200178/Library-System-Eureka-Server.git
